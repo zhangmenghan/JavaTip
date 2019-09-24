@@ -79,7 +79,7 @@ public class ServerCenter implements Server {
 				String serviceName = input.readUTF();
 				String methodName = input.readUTF();
 				Class[] parameterTypes = (Class[])input.readObject();
-				Class[] arguments = (Class[])input.readObject();
+				Object[] arguments = (Object[])input.readObject();
 				
 				//根据客户请求,到map中找到与其对应具体的接口
 				Class serviceClass = serviceRegister.get(serviceName);

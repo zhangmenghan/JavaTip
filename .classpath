@@ -14,5 +14,12 @@
 	<classpathentry kind="lib" path="src/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="src/ezmorph-1.0.6.jar"/>
 	<classpathentry kind="lib" path="src/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="src/Qrcode.jar"/>
+	<classpathentry kind="lib" path="src/core-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/javase-3.1.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="src/javax.mail-1.6.0.jar"/>
+	<classpathentry kind="lib" path="src/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="src/mail-1.4.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

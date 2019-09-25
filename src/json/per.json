@@ -1,0 +1,8 @@
+{
+	"name":"zmh",
+	"age":"23",
+	"address":{
+		"homeAddress":"home",
+		"schoolAddress":"school"
+	}
+}
